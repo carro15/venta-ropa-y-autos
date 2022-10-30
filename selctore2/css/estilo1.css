@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(186, 203, 235);
+    background-image: url(https://www.revistaneo.com/sites/default/files/2020-10/fondos-padres.jpg);
+}
+
+h1{
+    background-color: rgb(190, 241, 241);
+    color: rgb(114, 114, 238);
+    padding: 10px;
+    text-align: center;
+}
+
+.img{
+    width: 30%;
+    height: 100%;
+    border: 20px solid rgb(231, 159, 159);
+}
+.imgM{
+    width: 30%;
+    height: 100%;
+    border: 20px solid rgb(200, 168, 232)
+
+}
+
+#titulo{
+    background-color: rgb(183, 204, 245);
+}
+
+h2{
+    background-color: rgb(181, 116, 181);
+}
+
+section ul{
+    background-color: rgb(75, 104, 104);
+}
+
+section>h2{
+    background-color: rgb(130, 126, 126);
+    color: rgb(199, 237, 134);
+}

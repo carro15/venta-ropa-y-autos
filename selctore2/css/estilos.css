@@ -1,0 +1,51 @@
+/*{
+    background-color: rgb(223, 241, 204);
+    width: 50%;
+}*/
+/*selector de etiqueta*/
+
+body{
+    background-color: rgb(186, 203, 235);
+}
+
+h1{
+    background-color: rgb(187, 217, 217);
+    color: rgb(104, 111, 111);
+    padding: 10px;
+    text-align: center;
+}
+/*selectores de clase*/
+.img{
+    width: 30%;
+    height: 100%;
+    border: 5px solid rgb(190, 95, 176);
+}
+
+.imgM{
+    width: 30%;
+    height: 100%;
+    border: 5px solid rgb(255, 158, 158);
+
+}
+
+#titulo{
+    background-color: rgb(238, 219, 197);
+}
+
+section ul{
+    background-color: rgb(123, 122, 119);
+}
+main p{
+    background-color: rgb(195, 64, 180);
+}
+
+section>h2{
+    background-color: rgb(104, 207, 207);
+    color: rgb(230, 153, 125);
+}
+
+/*selector adyancenter*/
+
+p+div{
+    background-color: rgb(140, 189, 238);
+}
